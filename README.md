@@ -6,7 +6,7 @@ Singleton implementation and usage in C# class
 
 مربوط به آموزش زیر:
 
-http://www.aparat.com/v/?????
+http://www.aparat.com/v/rdoXT
 
 به کانال مل بپیوندید:
 
